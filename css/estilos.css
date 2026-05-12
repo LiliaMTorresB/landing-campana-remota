@@ -1,4 +1,72 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* BODY */
 body{
-    background-color: #f5f5f5;
     font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* HEADER */
+header{
+    background-color: #0d47a1;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.eslogan{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+/* SECCIONES */
+section{
+    padding: 40px;
+}
+
+/* PROPUESTAS */
+.propuestas{
+    background-color: white;
+}
+
+.tarjeta{
+    background-color: #e3f2fd;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+/* IMAGEN */
+.imagen-candidato{
+    text-align: center;
+}
+
+.imagen-candidato img{
+    width: 300px;
+    border-radius: 10px;
+}
+
+/* BOTON */
+.accion{
+    text-align: center;
+}
+
+button{
+    background-color: #1565c0;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #0d47a1;
 }
