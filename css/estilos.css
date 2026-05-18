@@ -70,3 +70,28 @@ button{
 button:hover{
     background-color: #0d47a1;
 }
+
+/* NAVBAR */
+
+.navbar{
+    background-color: #0d47a1;
+    color: white;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 20px 40px;
+}
+
+.menu{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.menu a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
