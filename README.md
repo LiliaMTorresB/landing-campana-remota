@@ -4,6 +4,7 @@ Proyecto realizado con Git y GitHub.
 
 
 - Repositorio sincronizado correctamente.
+- Práctica Git completada.
 
 ## Tecnologías utilizadas
 
