@@ -2,6 +2,9 @@
 
 Proyecto realizado con Git y GitHub.
 
+
+- Repositorio sincronizado correctamente.
+
 ## Tecnologías utilizadas
 
 - HTML5
@@ -9,6 +12,7 @@ Proyecto realizado con Git y GitHub.
 - JavaScript
 - Git
 - GitHub
+
 
 ## Autor
 
