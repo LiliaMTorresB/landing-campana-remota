@@ -14,7 +14,7 @@ body{
 
 /* HEADER */
 header{
-    background-color: #0d47a1;
+    background-color: #5b21b6;
     color: white;
     text-align: center;
     padding: 40px;
@@ -58,7 +58,7 @@ section{
 }
 
 button{
-    background-color: #1565c0;
+    background-color: #7c3aed;
     color: white;
     border: none;
     padding: 15px 30px;
@@ -68,12 +68,12 @@ button{
 }
 
 button:hover{
-    background-color: #0d47a1;
+    background-color: #5b21b6;
 }
 
 /* NAVBAR */
 .navbar{
-    background-color: #0d47a1;
+    background-color: #5b21b6;
     color: white;
 
     display: flex;
