@@ -1,6 +1,6 @@
-# Landing Campaña
+# Landing Campaña Política
 
-Proyecto de landing page para una campaña política ficticia.
+Proyecto realizado con Git y GitHub.
 
 ## Tecnologías utilizadas
 
