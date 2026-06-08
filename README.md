@@ -3,22 +3,48 @@
 
 
 # Landing Campaña Política
-
-Proyecto realizado con Git y GitHub.
-
-
-- Repositorio sincronizado correctamente.
-- Práctica Git completada.
-
-## Tecnologías utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
+Proyecto académico desarrollado con HTML, CSS y JavaScript, utilizando Git, GitHub y GitHub Actions para el control de versiones y la automatización de validaciones.
 
 
-## Autor
+# Estado del Proyecto
+Repositorio sincronizado correctamente.
+Workflow de validación configurado y funcionando.
+Práctica Git y GitHub completada.
 
-LiliaMTorresB# landing-campana
+
+#  Tecnologías Utilizadas
+HTML5
+CSS3
+JavaScript
+Git
+GitHub
+GitHub Actions
+Workflow de Validación
+
+
+# Este proyecto utiliza GitHub Actions para verificar automáticamente la estructura mínima de la landing page.
+Archivos Validados
+index.html
+css/estilos.css
+js/script.js
+README.md
+
+
+#  Eventos que Ejecutan el Workflow
+Push a la rama main.
+Pull Request hacia la rama main.
+
+
+#  Beneficios
+Verifica automáticamente la existencia de archivos esenciales.
+Reduce errores en el repositorio.
+Facilita el control de calidad del proyecto.
+Permite identificar problemas antes de integrar cambios.
+
+
+#  Autor
+Lilia M. Torres B.
+
+
+
+
