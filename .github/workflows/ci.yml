@@ -1,0 +1,30 @@
+name: Validación Landing Page
+
+on:
+  push:
+    branches:
+      - main
+
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validar-estructura:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Verificar index.html
+        run: test -f index.html
+
+      - name: Verificar css/estilos.css
+        run: test -f css/estilos.css
+
+      - name: Verificar js/script.js
+        run: test -f js/script.js
+
+      - name: Verificar README.md
+        run: test -f README.md
