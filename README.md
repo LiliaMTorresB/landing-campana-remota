@@ -1,3 +1,7 @@
+[![Validación Landing Page](https://github.com/LiliaMTorresB/landing-campana-remota/actions/workflows/ci.yml/badge.svg)](https://github.com/LiliaMTorresB/landing-campana-remota/actions/workflows/ci.yml)
+
+
+
 # Landing Campaña Política
 
 Proyecto realizado con Git y GitHub.
