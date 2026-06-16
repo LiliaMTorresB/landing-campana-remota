@@ -69,3 +69,23 @@ Actualmente los cambios se realizan directamente sobre la rama principal.
 * Utilizar ramas independientes para cada funcionalidad.
 * Incorporar revisiones mediante Pull Request.
 * Definir roles y políticas de trabajo.
+
+
+
+
+
+## Roles del Proyecto
+
+### Líder Técnico
+Responsable de supervisar la calidad del proyecto y aprobar los cambios.
+
+### Desarrollador
+Responsable de implementar nuevas funcionalidades y corregir errores.
+
+### Revisor
+Responsable de revisar el código y verificar que cumpla con las políticas establecidas.
+
+### Integrante actual
+Por el momento, todos los roles son desempeñados por:
+
+**Lilia Torres**
