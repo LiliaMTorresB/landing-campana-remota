@@ -47,4 +47,25 @@ Lilia M. Torres B.
 
 
 
+## Diagnóstico del Repositorio   //   Cambios 15Junio2026
 
+### Estructura actual
+
+El proyecto cuenta con archivos HTML, CSS y JavaScript organizados en carpetas independientes y un workflow de GitHub Actions para validar automáticamente la estructura.
+
+### Flujo actual
+
+Actualmente los cambios se realizan directamente sobre la rama principal.
+
+### Riesgos identificados
+
+* Posibilidad de introducir errores en la rama principal.
+* Ausencia de revisiones antes de integrar cambios.
+* Dificultad para trabajar de manera colaborativa.
+
+### Oportunidades de mejora
+
+* Implementar GitHub Flow.
+* Utilizar ramas independientes para cada funcionalidad.
+* Incorporar revisiones mediante Pull Request.
+* Definir roles y políticas de trabajo.
