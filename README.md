@@ -69,3 +69,30 @@ Actualmente los cambios se realizan directamente sobre la rama principal.
 * Utilizar ramas independientes para cada funcionalidad.
 * Incorporar revisiones mediante Pull Request.
 * Definir roles y políticas de trabajo.
+
+
+
+
+### Roles del Proyecto
+-> Líder Técnico: Responsable de supervisar la calidad del proyecto y aprobar los cambios.
+
+-> Desarrollador: Responsable de implementar nuevas funcionalidades y corregir errores.
+
+-> Revisor: Responsable de revisar el código y verificar que cumpla con las políticas establecidas.
+
+Por el momento, todos los roles son desempeñados por Lilia Torres.
+
+###  Políticas del Repositorio
+Require Pull Request.
+Require Review.
+Require Status Checks.
+
+### Evidencias
+Implementación de GitHub Flow.
+Uso de ramas independientes para nuevas funcionalidades.
+Creación de templates para Issues y Pull Requests.
+Validaciones automáticas mediante GitHub Actions.
+Integración de cambios mediante Pull Requests.
+
+### Flujo de Trabajo Implementado
+Issue → Branch → Commit → Push → Pull Request → Review → Merge
