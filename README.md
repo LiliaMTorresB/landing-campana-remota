@@ -89,3 +89,18 @@ Responsable de revisar el código y verificar que cumpla con las políticas esta
 Por el momento, todos los roles son desempeñados por:
 
 **Lilia Torres**
+
+
+## Políticas del Repositorio
+
+- Require Pull Request.
+- Require Review.
+- Require Status Checks.
+
+## Evidencias
+
+- Implementación de GitHub Flow.
+- Uso de ramas independientes.
+- Templates para Issues y Pull Requests.
+- Validaciones automáticas con GitHub Actions.
+- Integración de cambios mediante Pull Requests.
