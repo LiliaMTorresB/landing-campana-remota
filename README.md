@@ -1,6 +1,27 @@
 [![Validación Landing Page](https://github.com/LiliaMTorresB/landing-campana-remota/actions/workflows/ci.yml/badge.svg)](https://github.com/LiliaMTorresB/landing-campana-remota/actions/workflows/ci.yml)
 
 
+# Landing Page - Campaña Política Remota
+
+Este proyecto es una Landing Page moderna e interactiva diseñada para la promoción y recolección de apoyo de una campaña política. Cuenta con automatizaciones CI/CD para garantizar la integridad de sus archivos base.
+
+## 🚀 Despliegue Oficial
+Puedes ver el sitio web en vivo aquí: **[https://liliamtorresb.github.io/landing-campana-remota/](https://liliamtorresb.github.io/landing-campana-remota/)**
+
+## 📦 Versión Actual
+- **Versión:** `v1.0.0`
+- Consulta el historial de cambios en el archivo [CHANGELOG.md](./CHANGELOG.md).
+
+## 🛠️ Tecnologías y Herramientas Utilizadas
+- **HTML5:** Estructuración semántica del contenido.
+- **CSS3:** Diseño responsivo, Flexbox y estilos visuales personalizados.
+- **JavaScript (Vanilla):** Manejo de eventos e interactividad con el usuario.
+- **GitHub Actions:** Integración continua automatizada para comprobar la estructura de los archivos (`ci.yml`).
+
+## 👥 Integrantes del Equipo
+- Lilia Torres
+
+#  ################################################################
 
 # Landing Campaña Política
 Proyecto académico desarrollado con HTML, CSS y JavaScript, utilizando Git, GitHub y GitHub Actions para el control de versiones y la automatización de validaciones.
@@ -41,9 +62,6 @@ Reduce errores en el repositorio.
 Facilita el control de calidad del proyecto.
 Permite identificar problemas antes de integrar cambios.
 
-
-#  Autor
-Lilia M. Torres B.
 
 
 
@@ -96,3 +114,6 @@ Integración de cambios mediante Pull Requests.
 
 ### Flujo de Trabajo Implementado
 Issue → Branch → Commit → Push → Pull Request → Review → Merge
+
+
+
